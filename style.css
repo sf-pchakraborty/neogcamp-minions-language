@@ -5,12 +5,12 @@
   font-family: cursive;
   font-size: 100px;
   font-weight: bold;
-  color: #F6C616;
-  background-color: #0C457A;
+color: #F6C616;
+background-color: #0C457A;
  }
  
  body{
-  background-color: #F4DD4B;
+  background-color: #0C457A;
  }
  textarea {
    width: 80%;
@@ -31,7 +31,8 @@
    width: 80%;
    margin: 1rem;
    padding: 1rem;
-   background-color: #F6C616;
+  background-color: #F6C616;
+  color: #0C457A;
  }
 
  button{
@@ -40,8 +41,8 @@
   width:15%;
   font-size: 1.5rem;
   font-family: cursive;
- background-color: #0C457A;
-  color: #F6C616;
+ color: #0C457A;
+  background-color: #F6C616;
   border-radius: 2rem;
   border: none;
   
@@ -60,6 +61,8 @@
   padding:10px;
   font-family: cursive;
   font-size:20px;
-  background-color: #0C457A;
-  color: #F4DD4B;
+  /* background-color: whitesmoke;
+  color:#0C457A */
+  background-color: #0C457A; 
+   color: #F4DD4B;
  }
