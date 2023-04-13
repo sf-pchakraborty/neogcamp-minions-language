@@ -19,6 +19,7 @@ background-color: #0C457A;
   background-color: #F6C616;
    margin: 1rem;
    padding: 1rem;
+margin-left:2.5rem;
    border: none;
    border-radius: 2rem;
  }
@@ -31,6 +32,7 @@ background-color: #0C457A;
    width: 80%;
    margin: 1rem;
    padding: 1rem;
+  margin-left: 2.5rem;
   background-color: #F6C616;
   color: #0C457A;
  }
@@ -60,9 +62,11 @@ background-color: #0C457A;
   margin-top:100px;
   padding:10px;
   font-family: cursive;
-  font-size:20px;
+  font-size:25px;
   /* background-color: whitesmoke;
   color:#0C457A */
   background-color: #0C457A; 
    color: #F4DD4B;
+   border:1px solid #F4DD4B;
+   /* border-radius:25% 25% 25% 25%; */
  }
